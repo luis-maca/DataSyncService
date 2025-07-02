@@ -52,3 +52,10 @@ CodeCoverage/
 *.VisualState.xml
 TestResult.xml
 nunit-*.xml
+/.vs
+/DataSyncService.API/.vs/DataSyncService.API
+/DataSyncService/.vs/DataSyncService.API/CopilotIndices/17.12.38.29086
+/DataSyncService/.vs/DataSyncService.API/DesignTimeBuild
+/DataSyncService/.vs/DataSyncService.API/FileContentIndex
+/DataSyncService/.vs/DataSyncService.API/v17
+/DataSyncService/.vs/ProjectEvaluation
